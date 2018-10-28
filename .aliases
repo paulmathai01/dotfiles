@@ -1,0 +1,54 @@
+alias Tap='http --print=h --form POST http://phc.prontonetworks.com/cgi-bin/authlogin/ userId='15BCE0981' password='Dib564500!' serviceName='ProntoAuthentication' Submit22='Login''
+alias Tout='http --print=h POST http://phc.prontonetworks.com/cgi-bin/authlogout'
+
+#Shortcuts
+alias homey="cd ~"
+alias py_venv="cd ~/python-virtual-enviorments"
+alias Pupil="cd ~/python-virtual-enviorments; wokeras_tf"
+
+# List only directories
+alias lsd="ls -lF ${colorflag} | grep --color=never '^d'"
+
+# Google Chrome
+alias chrome='/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome'
+alias canary='/Applications/Google\ Chrome\ Canary.app/Contents/MacOS/Google\ Chrome\ Canary'
+
+# IP addresses
+alias ip="dig +short myip.opendns.com @resolver1.opendns.com"
+alias localip="ipconfig getifaddr en0"
+alias ips="ifconfig -a | grep -o 'inet6\? \(addr:\)\?\s\?\(\(\([0-9]\+\.\)\{3\}[0-9]\+\)\|[a-fA-F0-9:]\+\)' | awk '{ sub(/inet6? (addr:)? ?/, \"\"); print }'"
+
+# Show active network interfaces
+alias ifactive="ifconfig | pcregrep -M -o '^[^\t:]+:([^\n]|\n\t)*status: active'"
+
+# Flush Directory Service cache
+alias flush="dscacheutil -flushcache && killall -HUP mDNSResponder"
+
+# Clean up LaunchServices to remove duplicates in the “Open With” menu
+alias lscleanup="/System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user && killall Finder"
+
+# Recursively delete `.DS_Store` files
+alias cleanup="find . -type f -name '*.DS_Store' -ls -delete"
+
+# Show/hide hidden files in Finder
+alias show="defaults write com.apple.finder AppleShowAllFiles -bool true && killall Finder"
+alias hide="defaults write com.apple.finder AppleShowAllFiles -bool false && killall Finder"
+
+# Airport CLI alias
+alias airport='/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport'
+
+alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
+
+# Print each PATH entry on a separate line
+alias path='echo -e ${PATH//:/\\n}'
+
+#virtualevs
+alias wokeras_tf="source ./.virtualenvs/keras_tf/bin/activate"
+alias wocv="source ./.virtualenvs/cv/bin/activate"
+alias wodbsystel="source ./.virtualenvs/DBDystel/bin/activate"
+alias wopy2="source ./.virtualenvs/py2/bin/activate"
+alias wopytorch="source ./.virtualenvs/pytorch/bin/activate"
+alias wotemp="source ./.virtualenvs/temp/bin/activate"
+
+#deactivate
+alias dea="deactivate"
