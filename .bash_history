@@ -1,397 +1,3 @@
-cd p[y
-cd python-virtual-enviorments/
-ls
-cd veinxplore/
-ls
-python3 main.py --video ~/python-virtual-enviorments/veinxplore/Source/m.mp4
-python3 main.py --video ~/python-virtual-enviorments/veinxplore/Source/m.mp4
-python3 main.py --video ~/python-virtual-enviorments/veinxplore/Source/m.mp4
-adb pull /storage/sdcard0/DCIM/VID_20180702_173127
-pip install adb
-sudo pip install adb
-adb --help
-workon keras_tf
-cd python-virtual-enviorments/
-cd veinxplore/
-ls
-python3 main.py --video ~/python-virtual-enviorments/veinxplore/Source/m.mp4
-python3 main.py --video ~/python-virtual-enviorments/veinxplore/Source/m.mp4EXIT
-python3 main.py --video ~/python-virtual-enviorments/veinxplore/Source/m.mp4
-DEACTIVTAED
-deactivate
-/Users/paulmathai/python-virtual-enviorments/Untitled\ Folder/fortune1000.csv /Users/paulmathai/python-virtual-enviorments/DV/fortune1000.csv 
-jupyter notebook
-/Volumes/Adobe\ Zii\ for\ Adobe\ CC15\ -\ CC18\ 3.0.4/Open\ Gatekeeper\ friendly ; exit;
-jupyter notebook
-workon keras_tf
-cd
-ls
-cd python-virtual-enviorments/
-ls
-cd PupilDetection/
-ls
-ls
-cd front\ angle\ implementation/
-ls
-python3 realtime.py 
-ls
-python3 eyedetect.py 
-python3 eyedetect.py --video ~/
-python3 eyedetect.py --video ~/python-virtual-enviorments/PupilDetection/Input/
-python3 eyedetect.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-ls
-python3 prep.py
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 prep.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-ls
-cd ..
-ls
-cd ..
-ls
-cd usr
-ls
-lc local
-cd local
-ls
-cd bin
-ls
-./uninstall_cuda_drv.pl
-sudo ./uninstall_cuda_drv.pl
-ls
-jupyter notebook
-workon keras_tf
-ls
-cd python-virtual-enviorments/
-ls
-cd PupilDetection/
-ls
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil2.mp4
-jupyter notebook
-jupyter notebook list
-ls
-cd python-virtual-enviorments/
-ls
-cd PupilDetection/
-ls
-cd front\ angle\ implementation/
-ls
-video.py --video ~/python-virtual-enviorments/PupilDetection/front\ angle\ implementation/input/sample.7
-video.py --video ~/python-virtual-enviorments/PupilDetection/front\ angle\ implementation/input/sample7.mp4
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/front\ angle\ implementation/input/sample7.mp4
-workon keras_tf
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/front\ angle\ implementation/input/sample7.mp4
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/front\ angle\ implementation/input/sample7.mp4
-ls
-python3 video.py
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/Input/sample7.mp4
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/Input/p
-cd ..
-ls
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil.mp4
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-python3 pt_v1.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil3.mp4 
-pinggoogle.com
-ping google.com
-ls
-cd python-virtual-enviorments/
-ls
-cd PupilDetection/
-ls
-cd front\ angle\ implementation/
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/Input/sample7.mp4 
-workon keras_tf
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/Input/sample7.mp4 
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/Input/sample7.mp4 
-pip install picamera[array}
-`
-
-exit()
-ls
-cd ..
-cd ..
-cd ..
-ls
-cd Desktop/
-ls
-touch stream.py
-touch vid-stream.py
-touch vid-stream.py
-python3 vid-stream.py 
-ls
-cd ..
-ls
-cd python-virtual-enviorments/
-ls
-cd PupilDetection/
-cd front\ angle\ implementation/
-ls
-python3 video.py --video ~/python-virtual-enviorments/PupilDetection/Input/sample7.mp4 
-python3 video.py --video 6.mp4 
-jupyternotebook
-jupyter notebook
-jupyter notebook
-cd..
-cd ..
-cd ..
-ls
-jupyter notebook
-workon keras_tf
-workon pytorch
-workon keras_tf
-ls
-cd PupilDetection/
-ls
-cd front\ angle\ implementation/
-ls
-python video.py --video ~/python-virtual-enviorments/PupilDetection/Input/sample7.mp4 
-python video.py --video ~/python-virtual-enviorments/PupilDetection/Input/pupil2.mp4
-ls
-cd  ..
-ls
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4 
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/2.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/2.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/asdf.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-python pt_v1.py --video ~/Desktop/Eye\ Tracking\ Videos/trial3.mp4
-ls
-workon keras_tf
-pip install pyinstaller
-pip install --upgrade pip
-pip install openoyxl
-pip install openpyxl
-pip install py2exe
-pip install pywin32
-ls
-sudo pyinstaller -o paser.py
-sudo pyinstaller --onefile paser.py
-ls
-cd python-virtual-enviorments/
-ls
-cd Report\ Parsing/
-sudo pyinstaller --onefile paser.py
-ls
-cd ..
-ls
-cd PupilDetection/
-ls
-ls
-workon keras_tf
-ls
-cd python-virtual-enviorments/
-ls
-cd PupilDetection/
-ls
-python pt_v1.py 
-python pt_v1.py 
 python pt_v1.py 
 python pt_v1.py 
 python pt_v1.py 
@@ -498,3 +104,397 @@ canary
 lsd
 Tap
 /Users/paulmathai/python-virtual-enviorments/PupilDetection/scopeless/hmd-eyes-master/.gitignore ; exit;
+cleanup
+vi .aliases 
+ips
+ip
+vi .aliases 
+ifactive
+ifconfig
+juoyter notebook
+jupyter notebook
+git pull https://github.com/paulmathai01/SUMOFDIGITS
+git pull https://github.com/paulmathai01/SUMOFDIGITS.git
+mkdir Codechef
+cd Codechef/
+git clone https://github.com/paulmathai01/SUMOFDIGITS.git
+git clone https://github.com/paulmathai01/SIMPLEQUERIES
+git clone https://github.com/paulmathai01/POWERFULLSTRONGHOLD
+git clone https://github.com/paulmathai01/PACKINGTHEBOXES
+git clone https://github.com/paulmathai01/MINEFIELD
+git clone https://github.com/paulmathai01/OVERLAPPINGDISC
+git clone https://github.com/paulmathai01/MCHEFFS-DLOGO
+git clone https://github.com/paulmathai01/LITTLEELEPHANTANDSHEET
+git clone https://github.com/paulmathai01/LIGHTINGTHESHOP
+git clone https://github.com/paulmathai01/NONAME00
+git clone https://github.com/paulmathai01/HYPERTREE
+git clone https://github.com/paulmathai01/GETACLUE
+git clone https://github.com/paulmathai01/GAMINGINVERSTION
+git clone https://github.com/paulmathai01/FUTUREOFDRAUGHS
+git clone https://github.com/paulmathai01/EFFECTIVESETS
+git clone https://github.com/paulmathai01/CONNECTPOINT
+git clone https://github.com/paulmathai01/CHEFBOOK
+git clone https://github.com/paulmathai01/CHEFANDWAYBRUTE
+git clone https://github.com/paulmathai01/CEILANDKAROKE
+git clone https://github.com/paulmathai01/CEILANDCOMMUNICATIONSYSTEMS
+git clone https://github.com/paulmathai01/BYTELANDIANUNION
+git clone https://github.com/paulmathai01/ALGEBRAEXPRESS
+git clone https://github.com/paulmathai01/agmeongraph
+git init
+git remote add origin https://github.com/paulmathai01/CODECHEF.git
+git pull origin master
+git add .
+git commit -m "All Uploads"
+git push -u origin master
+git add .
+git commit -m "updtae"
+git push origin aster
+git push origin master
+ls
+py_venv 
+ls
+cd DBSystel/
+ls
+/Applications/AirBar.app/Contents/MacOS/AirBar ; exit;
+/Applications/AirBar.app/Contents/MacOS/AirBar ; exit;
+cleanup
+hyper i hyper-night-owl
+hyper i hyper-night-owl
+sudo hyper i hyper-night-owl
+hyper i hyper-night-owl
+hyper i hyper-corubo
+hyper i hyper-pane
+pip install hyper
+hyper i hyper-pane
+ls
+ls
+cd hou
+ls
+wokeras_tf 
+py_venv 
+ls
+cd house_price/
+ls
+python3 house_prices.py 
+python3 categorical_features.py 
+ls
+add .
+git add .
+ls
+git commit -m "Regression Commit"
+git push origin master
+ls
+cd ..
+ls
+cd hacker-scripts/
+ls
+ls
+git init
+ls
+git init
+ls
+git init
+git remote add origin https://github.com/paulmathai01/Hacker-Scripts-Improvised.git
+git add .
+git commit -m "initial fork upload"
+git push -u origin master
+git init
+git remote add origin https://github.com/paulmathai01/Hacker-Scripts-Improvised.git
+git pull origin master
+git add .
+git commit -m "Initial fork commit"
+git push -u origin aster
+git push -u origin aster
+git push -u origin master
+mkdir python3-Imporv
+ls
+cd python3-Imporv/
+cd ..
+cd python3
+ls
+mv ~/python-virtual-enviorments/hacker-scripts/python3 ~
+man v
+man mv
+man cp
+Tap
+ls
+ cd ..
+cd ..
+ls
+cd PupilDetection/
+ls
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+Tap
+ls
+cd ..
+cd hacker-scripts/
+ls
+git add .
+git commit -m "Improv"
+git push origin master
+ls
+py_venv 
+ls
+wokeras_tf 
+dea
+wokeras_tf 
+py_venv 
+cd house_price/
+ls
+python3 categorical_features.py 
+python3 categorical_features.py 
+wokeras_tf 
+py_venv 
+cd PupilDetection/
+ls
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+ls
+wokeras_tf 
+py_venv 
+ls
+cd DBSystel/
+ls
+rm dbsdoor-0.001-2conv-basic.model.data-00000-of-00001 dbsdoor-0.001-2conv-basic.model.index dbsdoor-0.001-2conv-basic.model.meta 
+ls
+python3 convolution.py 
+ush -u origin aster
+git push -u origin master
+mkdir python3-Imporv
+ls
+cd python3-Imporv/
+cd ..
+cd python3
+ls
+mv ~/python-virtual-enviorments/hacker-scripts/python3 ~
+man v
+man mv
+man cp
+Tap
+ls
+ cd ..
+cd ..
+ls
+cd PupilDetection/
+ls
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+Tap
+ls
+cd ..
+cd hacker-scripts/
+ls
+git add .
+git commit -m "Improv"
+git push origin master
+ls
+py_venv 
+ls
+wokeras_tf 
+dea
+wokeras_tf 
+py_venv 
+cd house_price/
+ls
+python3 categorical_features.py 
+python3 categorical_features.py 
+wokeras_tf 
+py_venv 
+cd PupilDetection/
+ls
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+ fdblv.f
+wokeras_tf 
+py_venv 
+ls
+cd house_price/
+python3 categorical_features.py 
+Tap
+Tap
+Tap
+Tap
+Tap
+ATp
+Tap
+ls
+tap
+Tap 
+Tap
+ls
+cd ..
+ls
+cd N
+cd NLP\ Quetinoair/
+ls
+wikitrivia "Trump"
+ls
+dea
+py_env
+homey
+ls
+wopy2
+ls
+cd python-virtual-enviorments/
+cd NLP\ Quetinoair/
+wikitrivia "Trump"
+wikitrivia "VIT"
+ls
+cd ..
+cd PupilDetection/
+ls
+de
+homey
+ls
+wopy2
+ls
+py_venv 
+cd PupilDetection/
+ls
+python3 pt_v1_1.py 
+homey
+dea
+wokeras_tf 
+cd python-virtual-enviorments/
+cd PupilDetection/
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+python3 pt_v1_1.py 
+Tap
+Tap 
+jupyter notebook
+wokeras_tf 
+jupyter notebook
+wokeras_tf 
+py_venv 
+ls
+cd DBSystel/
+ls
+rm dbsdoor-0.001-2conv-basic.model.meta dbsdoor-0.001-2conv-basic.model.index dbsdoor-0.001-2conv-basic.model.data-00000-of-00001 
+ls
+python3 convolution.py 
+rm dbsdoor-0.001-2conv-basic.model.meta dbsdoor-0.001-2conv-basic.model.index dbsdoor-0.001-2conv-basic.model.data-00000-of-00001 
+python3 convolution.py 
+python3 convolution.py 
+wokeras_tf 
+py_venv 
+ls
+arp -a
+Tap
+ls
+cd DBSystel/
+git add .
+git commit -m "Model Update"
+git push origin master
+cd ..
+ls
+homey
+hyper
+hyper i hyper-night-owl
+hyper i hyper-subliminal-theme
+wokeras_tf 
+py_venv 
+ls
+cd Pupi;
+cd Pupi
+cd PupilDetection/
+cd ..
+ls
+cd NYC-Predict/
+ls
+touch predict.py
+ls
+python3 predict.py 
+python3 predict.py 
+python3 predict.py 
+python3 predict.py 
+python3 predict.py 
+pip update keras
+pip install keras
+pip install -u keras
+pip -h
+pip uninstall keras
+pip install keras
+pip freeze
+pip uninstall scikit-learn
+pip install scikit-learn
+ls
+touch .gitignore
+nano .gitignore 
+nano .gitignore 
+ls
+git init
+git remote add origin https://github.com/paulmathai01/NYC-taxi-prediction-kaggle.git
+git pull origin master
+git add .
+git commit -m "First Commit"
+git init
+git remote add origin https://github.com/paulmathai01/NYC-taxi-prediction-kaggle.git
+git pull origin master
+git init
+git remote add origin https://github.com/paulmathai01/NYC-taxi-prediction-kaggle.git
+git pull origin master
+git add .
+git commit -m "First Commit"
+git push -u origin master
+ls
+cd ..
+ls
+cd h
+cd hacker-scripts/
+ls
+cd Original/
+ls
+touch README.md
+nano README.md 
+cd ..
+ls
+git add .
+git commit -m "added original readme"
+git push origin master
+ls
+cd ..
+ls
+cd house_price/
+ls
+python3 categorical_features.py 
+ls
+ls
+cd ..
+ls
+cd dv-house-price/
+ls
+cd house_prices.py 
+python3 house_prices.py 
+cd ..
+ls
+cd house_price/
+python3 categorical_features.py 
+cd ..
+ls
+cd NLP\ Quetinoair/
+ls
+wikitrivia "Narendra modi"
+ls
+pip install -e
+pip install -e .
+wikitrivia "narendra modi
+c
+wikitrivia "narendra modi"
+ls
+cd ..
+cd veinxplore/
+ls
+python3 main.py 
+python3 main.py 
+Tap

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1540741372,,"wq"
+|2,0,1540751517,,"wq"
 :!q
 |2,0,1540725558,,"!q"
 :q
@@ -29,34 +29,116 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
-|4,48,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
-'1  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
-|4,49,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
-'2  1  0  ~/lol.sh
-|4,50,1,0,1540727708,"~/lol.sh"
-'3  63  0  ~/.macos
-|4,51,63,0,1540672866,"~/.macos"
-'4  51  39  ~/.aliases
-|4,52,51,39,1540671154,"~/.aliases"
-'5  47  12  ~/.aliases
-|4,53,47,12,1540671017,"~/.aliases"
-'6  47  12  ~/.aliases
-|4,54,47,12,1540671017,"~/.aliases"
-'7  46  59  ~/.aliases
-|4,55,46,59,1540670918,"~/.aliases"
-'8  46  59  ~/.aliases
-|4,56,46,59,1540670918,"~/.aliases"
-'9  46  59  ~/.aliases
-|4,57,46,59,1540670918,"~/.aliases"
+'0  1  0  ~/.aliases
+|4,48,1,0,1540751517,"~/.aliases"
+'1  1  0  ~/.aliases
+|4,49,1,0,1540751469,"~/.aliases"
+'2  2  0  ~/.aliases
+|4,50,2,0,1540751203,"~/.aliases"
+'3  2  0  ~/.aliases
+|4,51,2,0,1540751203,"~/.aliases"
+'4  2  0  ~/.aliases
+|4,52,2,0,1540751203,"~/.aliases"
+'5  2  0  ~/.aliases
+|4,53,2,0,1540751203,"~/.aliases"
+'6  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
+|4,54,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
+'7  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,55,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+'8  1  0  ~/lol.sh
+|4,56,1,0,1540727708,"~/lol.sh"
+'9  63  0  ~/.macos
+|4,57,63,0,1540672866,"~/.macos"
 
 # Jumplist (newest first):
+-'  1  0  ~/.aliases
+|4,39,1,0,1540751517,"~/.aliases"
+-'  1  0  ~/.aliases
+|4,39,1,0,1540751469,"~/.aliases"
+-'  2  0  ~/.aliases
+|4,39,2,0,1540751203,"~/.aliases"
+-'  2  0  ~/.aliases
+|4,39,2,0,1540751203,"~/.aliases"
+-'  2  0  ~/.aliases
+|4,39,2,0,1540751203,"~/.aliases"
+-'  1  0  ~/.aliases
+|4,39,1,0,1540751099,"~/.aliases"
+-'  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
+|4,39,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
+|4,39,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
+|4,39,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
+|4,39,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
+|4,39,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
+|4,39,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
+|4,39,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
 -'  1  0  ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
 |4,39,1,0,1540741372,"~/python-virtual-enviorments/NLP Quetinoair/.gitignore"
 -'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
 |4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
 -'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
 |4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  6  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,6,0,1540739207,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
+-'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
+|4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
 -'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
 |4,39,1,0,1540738536,"~/python-virtual-enviorments/PupilDetection/.gitignore"
 -'  1  0  ~/python-virtual-enviorments/PupilDetection/.gitignore
@@ -69,6 +151,62 @@
 |4,39,1,0,1540727708,"~/lol.sh"
 -'  1  0  ~/lol.sh
 |4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
+-'  1  0  ~/lol.sh
+|4,39,1,0,1540727708,"~/lol.sh"
 -'  63  0  ~/.macos
 |4,39,63,0,1540672866,"~/.macos"
 -'  63  0  ~/.macos
@@ -85,174 +223,64 @@
 |4,39,63,0,1540672866,"~/.macos"
 -'  63  0  ~/.macos
 |4,39,63,0,1540672866,"~/.macos"
--'  1  0  ~/.macos
-|4,39,1,0,1540671888,"~/.macos"
--'  1  0  ~/.macos
-|4,39,1,0,1540671888,"~/.macos"
--'  1  0  ~/.macos
-|4,39,1,0,1540671888,"~/.macos"
--'  1  0  ~/.macos
-|4,39,1,0,1540671888,"~/.macos"
--'  1  0  ~/.macos
-|4,39,1,0,1540671888,"~/.macos"
--'  1  0  ~/.macos
-|4,39,1,0,1540671888,"~/.macos"
--'  1  0  ~/.macos
-|4,39,1,0,1540671888,"~/.macos"
--'  1  0  ~/.macos
-|4,39,1,0,1540671888,"~/.macos"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  51  39  ~/.aliases
-|4,39,51,39,1540671154,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540671032,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  47  12  ~/.aliases
-|4,39,47,12,1540671017,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
--'  1  0  ~/.aliases
-|4,39,1,0,1540670946,"~/.aliases"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
+-'  63  0  ~/.macos
+|4,39,63,0,1540672866,"~/.macos"
 
 # History of marks within files (newest to oldest):
+
+> ~/.aliases
+	*	1540751516	0
+	"	1	0
+	^	51	40
+	.	51	40
+	+	2	80
+	+	1	125
+	+	2	0
+	+	4	2
+	+	6	47
+	+	7	62
+	+	43	0
+	+	44	0
+	+	44	67
+	+	44	0
+	+	2	0
+	+	44	0
+	+	46	60
+	+	47	7
+	+	46	12
+	+	47	7
+	+	46	8
+	+	51	49
+	+	48	15
+	+	49	37
+	+	50	14
+	+	51	40
 
 > ~/python-virtual-enviorments/NLP Quetinoair/.gitignore
 	*	1540741371	0
@@ -285,34 +313,6 @@
 	.	62	66
 	+	1	51
 	+	62	66
-
-> ~/.aliases
-	*	1540671153	0
-	"	51	39
-	^	51	40
-	.	51	40
-	+	2	80
-	+	1	125
-	+	2	0
-	+	4	2
-	+	6	47
-	+	7	62
-	+	43	0
-	+	44	0
-	+	44	67
-	+	44	0
-	+	2	0
-	+	44	0
-	+	46	60
-	+	47	7
-	+	46	12
-	+	47	7
-	+	46	8
-	+	51	49
-	+	48	15
-	+	49	37
-	+	50	14
-	+	51	40
 
 > ~/Python/tensor.py
 	*	1512213983	0
