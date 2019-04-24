@@ -21,3 +21,6 @@ source ⁨/Library⁩/Frameworks⁩/Python.framework⁩/Versions⁩/3.6⁩/bin�
 export PATH="/Users/paulmathai/.pyenv/bin:$PATH"
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+
+export LC_ALL=en_UK.UTF-8
+export LANG=en_UK.UTF-8
